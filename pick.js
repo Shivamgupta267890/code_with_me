@@ -5,6 +5,5 @@ function funny(){
     console.log("Hii code with me");
 }
 
-function superman(){
+
     
-}
