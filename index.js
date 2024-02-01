@@ -8,6 +8,6 @@ function man_cat(){
     console.log('My name is ' + so);
 }
 
-function superman(){
+function supercan(){
     console.log('My name is ' + s1);
 }
