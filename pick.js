@@ -2,7 +2,7 @@ const food="mango";
 const name='nobita';
 
 
-
+const cat=92;
 
 
 
@@ -14,6 +14,11 @@ const name='nobita';
 
 
     
+
+
+
+
+
 
 
 
